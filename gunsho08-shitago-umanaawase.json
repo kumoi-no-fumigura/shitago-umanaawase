@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shitago-umanaawase",
  "yomi": "みなもとのしたごううまなあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（馬名合）",
+  "era": "平安中期",
+  "author": "源順",
+  "desc": "馬の毛色の名（山の端緋・木の下鹿毛・天の河原毛など）を左右に番え、その名を詠み込んだ十番の歌。奥書に、忠家・俊忠の筆と伝える一巻を寛政五年に藤原貞幹が写したと記す。"
+ },
  "editions": [
   {
    "pid": "1879502",
